@@ -5,7 +5,7 @@ A personal portfolio website showcasing my projects, skills, and professional ex
 ## 🌐 Live Demo
 [View my portfolio](https://hansfilart.github.io/Hans-Portfolio/)
 
-👋 About Me
+## 👋 About Me
 I'm a Mechanical Engineering student at the University of Missouri with a minor in mathematics. I bridge the gap between concept and creation, designing thoughtful mechanical systems with a strong focus on practicality. My background combines hands-on machine shop fabrication with digital development skills, bringing technical precision and clear communication to every project.
 
 **Based in:** Columbia, MO  
@@ -39,12 +39,12 @@ Entrepreneurship • Marketing • Finance • Customer Service
 
 ## 🛠️ Project Structure
 
-📧 Contact
+## 📧 Contact
 Email: hans.a.filart@gmail.com
 LinkedIn: [hansfilart](https://www.linkedin.com/in/hansfilart/)
 GitHub: [@hansfilart](https://github.com/hansfilart)
 
-📝 Resume
-Download my resume 
+## 📝 Resume
+[Download my resume](images/Hans Filart Resume 2026.zip) 
 
 Built with care • © 2026 Hans Filart
