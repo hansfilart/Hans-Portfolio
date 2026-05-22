@@ -47,6 +47,6 @@ Entrepreneurship • Marketing • Finance • Customer Service
 **GitHub:** [@hansfilart](https://github.com/hansfilart)
 
 ## 📝 Resume
-[Download my resume]([images/Hans Filart Resume 2026.zip](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip)) 
+Download my resume([images/Hans Filart Resume 2026.zip](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip)) 
 
 Built with care • © 2026 Hans Filart
