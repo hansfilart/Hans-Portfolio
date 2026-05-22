@@ -57,7 +57,7 @@ A collaborative project where my team and I handled the entire SOLIDWORKS workfl
 **GitHub:** [@hansfilart](https://github.com/hansfilart)
 
 ## 📝 Resume
-([Download my resume](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip)) 
+Download my resume [here](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip) 
 
 ______________________________________________________________________________________________________________________________________________________________________________
 Built with care • © 2026 Hans Filart
