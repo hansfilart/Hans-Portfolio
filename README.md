@@ -41,7 +41,9 @@ Entrepreneurship • Marketing • Finance • Customer Service
 
 ## 📧 Contact
 **Email:** hans.a.filart@gmail.com
+
 **LinkedIn:** [hansfilart](https://www.linkedin.com/in/hansfilart/)
+
 **GitHub:** [@hansfilart](https://github.com/hansfilart)
 
 ## 📝 Resume
