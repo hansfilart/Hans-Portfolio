@@ -50,14 +50,14 @@ A collaborative project where my team and I handled the entire SOLIDWORKS workfl
 
 ## 📧 Contact
 
-Email: **hans.a.filart@gmail.com**
+**Email:** hans.a.filart@gmail.com
 
-LinkedIn: **[hansfilart](https://www.linkedin.com/in/hansfilart/)**
+**LinkedIn:** [linkedin.com/in/hansfilart/)](https://www.linkedin.com/in/hansfilart/)
 
-GitHub: **[@hansfilart](https://github.com/hansfilart)**
+**GitHub:** [@hansfilart](https://github.com/hansfilart)
 
 ## 📝 Resume
-Download my resume ([images/Hans Filart Resume 2026.zip](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip)) 
+Download my resume ([Hans Filart Resume](https://github.com/hansfilart/Hans-Portfolio/blob/main/Hans%20Filart%20Resume%202026.zip)) 
 
 ______________________________________________________________________________________________________________________________________________________________________________
 Built with care • © 2026 Hans Filart
