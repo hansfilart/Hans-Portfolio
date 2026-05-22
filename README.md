@@ -40,9 +40,9 @@ Entrepreneurship • Marketing • Finance • Customer Service
 ## 🛠️ Project Structure
 
 ## 📧 Contact
-Email: hans.a.filart@gmail.com
-LinkedIn: [hansfilart](https://www.linkedin.com/in/hansfilart/)
-GitHub: [@hansfilart](https://github.com/hansfilart)
+**Email:** hans.a.filart@gmail.com
+**LinkedIn:** [hansfilart](https://www.linkedin.com/in/hansfilart/)
+**GitHub:** [@hansfilart](https://github.com/hansfilart)
 
 ## 📝 Resume
 [Download my resume](images/Hans Filart Resume 2026.zip) 
