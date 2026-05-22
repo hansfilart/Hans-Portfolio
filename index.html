@@ -57,7 +57,7 @@ section{padding:5rem 2.5rem;max-width:900px;margin:0 auto}
 .hero-name span{font-style:italic;font-weight:300}
 .hero-desc{font-size:1.05rem;color:var(--muted);max-width:460px;line-height:1.75;margin-bottom:2.5rem;font-weight:300}
 .hero-cta{display:flex;gap:1rem;flex-wrap:wrap}
-.btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.6rem 1.25rem;border-radius:6px;font-size:13px;font-family:var(--mono);letter-spacing:0.02em;cursor:pointer;text-decoration:none;transition:all 0.2s;border:1px solid var(--border)}
+.btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.6rem 1.25rem;border-radius:6px;font-size:13px;font-family:var(--mono);letter-spacing:0.02em;cursor:pointer;text-decoration:none;transit[...]
 .btn-primary{background:var(--text);color:var(--bg);border-color:var(--text)}
 .btn-primary:hover{opacity:0.85}
 .btn-ghost{background:transparent;color:var(--muted)}
@@ -102,26 +102,26 @@ section{padding:5rem 2.5rem;max-width:900px;margin:0 auto}
 .media-box img, .media-box video{width:100%;height:100%;object-fit:cover;display:block}
 .media-box img{transition:transform 0.25s ease;cursor:zoom-in}
 .media-box img:hover{transform:scale(1.05)}
-.lightbox{display:none;position:fixed;z-index:9999;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.4);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s}
+.lightbox{display:none;position:fixed;z-index:9999;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.4);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);align-items:cente[...]
 .lightbox.active{display:flex;opacity:1}
-.lightbox-content{max-width:60vw;max-height:60vh;width:auto;height:auto;object-fit:contain;min-width:0;min-height:0;border-radius:8px;box-shadow:0 10px 40px rgba(0,0,0,0.2);transform:scale(0.95);transition:transform 0.2s ease}
+.lightbox-content{max-width:60vw;max-height:60vh;width:auto;height:auto;object-fit:contain;min-width:0;min-height:0;border-radius:8px;box-shadow:0 10px 40px rgba(0,0,0,0.2);transform:scale(0.95);[...]
 .lightbox.active .lightbox-content{transform:scale(1)}
 .lightbox-close{position:absolute;top:1.5rem;right:2rem;color:#fff;font-size:2.5rem;cursor:pointer;line-height:1}
 .project-tags{display:flex;flex-wrap:wrap;gap:0.35rem;margin-top:0.75rem}
 .project-links{display:flex;flex-direction:column;gap:0.5rem;align-items:flex-end;flex-shrink:0}
-.link-btn{font-family:var(--mono);font-size:11px;color:var(--muted);text-decoration:none;letter-spacing:0.04em;border:1px solid var(--border);border-radius:4px;padding:0.25rem 0.6rem;transition:all 0.15s;white-space:nowrap}
+.link-btn{font-family:var(--mono);font-size:11px;color:var(--muted);text-decoration:none;letter-spacing:0.04em;border:1px solid var(--border);border-radius:4px;padding:0.25rem 0.6rem;transition:a[...]
 .link-btn:hover{color:var(--text);border-color:var(--muted)}
 
 /* CONTACT */
 .contact-wrap{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
 .contact-text p{color:var(--muted);line-height:1.8;font-weight:300;margin-bottom:1rem}
 .contact-links{display:flex;flex-direction:column;gap:0.5rem}
-.contact-link{display:flex;align-items:center;gap:0.75rem;padding:0.75rem 1rem;background:var(--surface);border:1px solid var(--border);border-radius:8px;text-decoration:none;color:var(--text);font-size:13px;font-family:var(--mono);letter-spacing:0.02em;transition:all 0.15s}
+.contact-link{display:flex;align-items:center;gap:0.75rem;padding:0.75rem 1rem;background:var(--surface);border:1px solid var(--border);border-radius:8px;text-decoration:none;color:var(--text);fo[...]
 .contact-link:hover{border-color:var(--muted);background:var(--tag-bg)}
 .contact-form{display:flex;flex-direction:column;gap:0.75rem}
 .form-group{display:flex;flex-direction:column;gap:0.35rem}
 .form-label{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:0.06em}
-.form-input,.form-textarea{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.6rem 0.85rem;font-size:14px;font-family:var(--sans);color:var(--text);outline:none;transition:border-color 0.15s;width:100%;font-weight:300}
+.form-input,.form-textarea{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:0.6rem 0.85rem;font-size:14px;font-family:var(--sans);color:var(--text);outline:none;[...]
 .form-input:focus,.form-textarea:focus{border-color:var(--muted)}
 .form-textarea{resize:vertical;min-height:90px;line-height:1.6}
 .form-input::placeholder,.form-textarea::placeholder{color:var(--muted);opacity:0.6}
@@ -161,7 +161,7 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
       <p class="hero-eyebrow"> Mechanical Engineer</p>
       <!-- Edit your name below -->
       <h1 class="hero-name">Hans <span>Filart</span></h1>
-      <p class="hero-desc">I bridge the gap between concept and creation. I design thoughtful mechanical systems with a strong focus on practicality, making sure every detail on the screen translates smoothly to a high-quality physical part</p>
+      <p class="hero-desc">I bridge the gap between concept and creation. I design thoughtful mechanical systems with a strong focus on practicality, making sure every detail on the screen transl[...]
       <div class="hero-cta">
         <a href="#projects" class="btn btn-primary">View work →</a>
         <a href="#contact" class="btn btn-ghost">Get in touch</a>
@@ -171,13 +171,13 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
         Open to new opportunities
       </div>
       <div style="margin-top: 1rem;">
-        <a href="Hans Filart Resume 2026.zip" download class="nav-links a" style="font-family: var(--mono); font-size: 13px; text-decoration: underline; color: var(--text);">Download my resume here!</a>
+        <a href="Hans Filart Resume 2026.zip" download class="nav-links a" style="font-family: var(--mono); font-size: 13px; text-decoration: underline; color: var(--text);">Download my resume he[...]
       </div>
     </div>
     <div class="hero-media">
     </div>
     <div class="hero-media">
-      <!-- Insert your profile picture here -->      <img src="hans%20professional%20headshot.jpg" alt="Hans Filart Profile Picture" class="hero-image">
+      <!-- Insert your profile picture here -->      <img src="images/hans%20professional%20headshot.jpg" alt="Hans Filart Profile Picture" class="hero-image">
     </div>
   </div>
 </section>
@@ -186,8 +186,8 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
   <div class="section-label">About</div>
   <div class="about-grid">
     <div class="about-text">
-      <p>I’m a Mechanical Engineering student at the University of Missouri with a minor in mathematics. I focus on the full process of building hardware—taking ideas from digital design and analytical math all the way to a finished physical product.</p>
-      <p>My background bridges the gap between hardware and software, combining hands-on machine shop fabrication with digital development skills. I aim to bring technical precision, clear communication, and strong teamwork to every project.</p>
+      <p>I'm a Mechanical Engineering student at the University of Missouri with a minor in mathematics. I focus on the full process of building hardware—taking ideas from digital design and [...]
+      <p>My background bridges the gap between hardware and software, combining hands-on machine shop fabrication with digital development skills. I aim to bring technical precision, clear commun[...]
     </div>
     <div class="about-aside">
       <div class="aside-card">
@@ -285,13 +285,13 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
       <div>
         <div class="project-num">01</div>
         <div class="project-name">Lathe Fabrication &amp; Design</div>
-        <div class="project-desc">Documentation of the setup, design, and operation of a lathe for a custom machined part. This highlights a practical understanding of CNC programming, tool selection, tolerances, and transitioning a technical drawing to a finished part.</div>
+        <div class="project-desc">Documentation of the setup, design, and operation of a lathe for a custom machined part. This highlights a practical understanding of CNC programming, tool selec[...]
         <div class="project-media-grid">
           <div class="media-box">
-            <img src="manufacturing%20hw%20lathe%20drawing.JPG" alt="Lathe Technical Drawing">
+            <img src="images/manufacturing%20hw%20lathe%20drawing.JPG" alt="Lathe Technical Drawing">
           </div>
           <div class="media-box">
-            <img src="lathe.JPG" alt="Finished Lathe Part / CNC Lathe Operation">
+            <img src="images/lathe.JPG" alt="Finished Lathe Part / CNC Lathe Operation">
           </div>
         </div>
         <div class="project-tags">
@@ -308,13 +308,13 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
       <div>
         <div class="project-num">02</div>
         <div class="project-name">Mill Fabrication &amp; Design</div>
-        <div class="project-desc">Milling project to create a functional vise stop from aluminum stock. Showcases the transition from a 2D engineering drawing with specific tolerances to physical fabrication on a manual milling machine, demonstrating hands-on machining skills.</div>
+        <div class="project-desc">Milling project to create a functional vise stop from aluminum stock. Showcases the transition from a 2D engineering drawing with specific tolerances to physical[...]
         <div class="project-media-grid">
           <div class="media-box">
-            <img src="manufacturing hw 1 drawing.JPG" alt="Mill Technical Drawing">
+            <img src="images/manufacturing hw 1 drawing.JPG" alt="Mill Technical Drawing">
           </div>
           <div class="media-box">
-            <img src="mill.JPG" alt="Milling machine used for fabrication">
+            <img src="images/mill.JPG" alt="Milling machine used for fabrication">
           </div>
         </div>
         <div class="project-tags">
@@ -332,17 +332,17 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
         <div class="project-num">03</div>
         <div class="project-name">SOLIDWORKS 3D Modeling &amp; Mechanical Assembly</div>
         <div class="project-desc">
-          <p>A collaborative project where my team and I handled the entire SOLIDWORKS workflow from scratch. Together, we designed and dimensioned complex parts, generated detailed engineering drawings, and built the final assembly with motion studies and animations to prove the mechanism works.</p>
+          <p>A collaborative project where my team and I handled the entire SOLIDWORKS workflow from scratch. Together, we designed and dimensioned complex parts, generated detailed engineering d[...]
         </div>
         <div class="project-media-grid grid-3">
           <div class="media-box">
-            <video src="portfolio%20project%20video.mp4" controls muted loop></video>
+            <video src="images/portfolio%20project%20video.mp4" controls muted loop></video>
           </div>
           <div class="media-box">
-            <video src="portfolio%20exploded%20prject%20video.mp4" controls muted loop></video>
+            <video src="images/portfolio%20exploded%20prject%20video.mp4" controls muted loop></video>
           </div>
           <div class="media-box">
-            <img src="portfolio%20project%20drawing%201.jpg" alt="SOLIDWORKS Technical Drawing">
+            <img src="images/portfolio%20project%20drawing%201.jpg" alt="SOLIDWORKS Technical Drawing">
           </div>
         </div>
         <div class="project-tags">
@@ -360,11 +360,11 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
         <div class="project-num">04</div>
         <div class="project-name">This Portfolio</div>
         <div class="project-desc">
-          <p>The portfolio is a project in itself! Built from scratch in VS Code using HTML and modern CSS to showcase my engineering work. Rather than using a template, I designed it with a clean UI, custom grid layouts, and interactive elements like a built-in image lightbox to create a seamless user experience.</p>
+          <p>The portfolio is a project in itself! Built from scratch in VS Code using HTML and modern CSS to showcase my engineering work. Rather than using a template, I designed it with a clea[...]
         </div>
         <div class="project-media-grid" style="grid-template-columns: 1fr;">
           <div class="media-box">
-            <img src="protfolio%20picture.jpg" alt="Portfolio Website Screenshot">
+            <img src="images/protfolio%20picture.jpg" alt="Portfolio Website Screenshot">
           </div>
         </div>
         <div class="project-tags">
@@ -396,7 +396,7 @@ footer{border-top:1px solid var(--border);padding:2rem 2.5rem;max-width:900px;ma
           hans.a.filart@gmail.com
         </a>
         <a href="https://www.linkedin.com/in/hansfilart" target="_blank" rel="noopener noreferrer" class="contact-link">
-          <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+          <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6[...]
           www.linkedin.com/in/hansfilart
         </a>
       </div>
