@@ -39,7 +39,17 @@ Entrepreneurship • Marketing • Finance • Customer Service
 
 ## 🛠️ Project Structure
 
+**Lathe Fabrication & Design**
+Documentation of the setup, design, and operation of a lathe for a custom-machined part. This highlights a practical understanding of CNC programming, tool selection, tolerances, and transitioning a technical drawing to a finished part.
+
+**Mill Fabrication & Design**
+Milling project to create a functional vise stop from aluminum stock. Showcases the transition from a 2D engineering drawing with specific tolerances to physical fabrication on a manual milling machine, demonstrating hands-on machining skills.
+
+**SOLIDWORKS 3D Modeling & Mechanical Assembly**
+A collaborative project where my team and I handled the entire SOLIDWORKS workflow from scratch. Together, we designed and dimensioned complex parts, generated detailed engineering drawings, and built the final assembly with motion studies and animations to prove the mechanism works.
+
 ## 📧 Contact
+
 Email: **hans.a.filart@gmail.com**
 
 LinkedIn: **[hansfilart](https://www.linkedin.com/in/hansfilart/)**
