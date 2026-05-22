@@ -38,3 +38,12 @@ Linux • Wireshark • Google Suite • MS Office
 Entrepreneurship • Marketing • Finance • Customer Service
 
 ## 🛠️ Project Structure
+
+📧 Contact
+Email: hans.a.filart@gmail.com
+LinkedIn: [hansfilart](https://www.linkedin.com/in/hansfilart/)
+GitHub: @hansfilart
+📝 Resume
+Download my resume 
+
+Built with care • © 2026 Hans Filart
